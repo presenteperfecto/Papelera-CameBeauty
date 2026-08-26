@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Papelera.CameBeauty | Catálogo</title>
+    <meta name="description" content="Catálogo digital de productos con consulta por WhatsApp." />
+    <link rel="icon" type="img/png" href="/catalogo/img/categorias/CameBeauty.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="css/styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="topbar">
+        <div class="container topbar-inner">
+          <span>Atención personalizada</span>
+          <a href="https://wa.me/5491159884082" target="_blank" rel="noreferrer">WhatsApp: +54 9 11 5988-4082</a>
+        </div>
+      </div>
+
+      <nav class="nav container" aria-label="Navegación principal">
+        <a class="brand" href="#inicio" data-scroll-target="inicio">
+          <span class="brand-mark">CB</span>
+          <span>CameBeauty</span>
+        </a>
+
+        <div class="nav-links">
+          <a href="#catalogofiltro" data-scroll-target="catalogo">Catálogo</a>
+          <a href="#articulos01" data-scroll-target="filtros-articulos">Articulos</a>
+          <a href="#ubicacion" data-scroll-target="ubicacion">Ubicación</a>
+          <a href="#contacto" data-scroll-target="contacto">Contacto</a>
+        </div>
+
+        <button class="nav-cta" type="button" data-whatsapp-general>Consultar</button>
+      </nav>
+    </header>
+
+    <main id="inicio">
+      <section class="hero">
+        <div class="container hero-grid">
+          <div class="hero-copy">
+            <p class="eyebrow">Catálogo digital</p>
+            <h1>Todo para tu negocio, presentado con estilo y fácil consulta.</h1>
+            <p class="lead">
+              Descubrí nuestras categorías, consultá artículos específicos y contactate por WhatsApp de forma rápida y directa.
+            </p>
+
+            <div class="hero-actions">
+              <button class="button-primary" type="button" data-whatsapp-general>Consulta general</button>
+              <a class="button-secondary" href="#catalogo" data-scroll-target="catalogo">Ver catálogo</a>
+            </div>
+
+            <ul class="feature-list">
+              <li>Productos para negocio y consumo</li>
+              <li>Consulta rápida por artículo</li>
+              <li>Entrega y atención comercial</li>
+            </ul>
+          </div>
+
+          <div class="hero-panel" aria-label="Resumen comercial">
+            <div class="panel-card"> 
+              <span class="small-label">Alcance</span>
+              <strong>Entrega nacional</strong>
+              <p>Atención mayorista y minorista.</p>
+            </div>
+            <div class="panel-card soft"> 
+              <span class="small-label">Especialidad</span>
+              <strong>Packaging & disposables</strong>
+              <p>Soluciones para alimentos, catering y retail.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section id="catalogo" class="section" id="catalogofiltro">
+        <div class="container">
+          <div class="section-header">
+            <p class="eyebrow">Catálogo</p>
+            <h2>Nuestras categorías</h2>
+          </div>
+
+          
+          <div class="catalog-toolbar">
+            <div id="filtros-categoria" class="category-filters" aria-label="Filtros de categorías"></div>
+          </div>
+
+          <div id="categoria-list" class="categories-grid" aria-live="polite"></div>
+
+          <div class="container">
+          <div class="section-header" id="articulos01">
+            <p class="eyebrow">Articulos</p>
+            <h3>Nuestros articulos</h3>
+          </div>
+
+          <div id="productos" class="products-grid" aria-live="polite">
+            
+          </div>
+        </div>
+      </section>
+
+      <section id="ubicacion" class="section section-alt">
+        <div class="container">
+          <div class="section-header left">
+            <p class="eyebrow">Ubicación</p>
+            <h2>Nos encontramos en la provincia</h2>
+          </div>
+
+          <div class="location-grid">
+            <div class="location-card">
+              <h3>Información comercial</h3>
+              <ul class="info-list">
+                <!--<li><span>Dirección</span><strong>Villa Luzuriaga</strong></li>!-->
+                <li><span>Localidad</span><strong>Villa Luzuriaga</strong></li>
+                <li><span>Provincia</span><strong>La Matanza</strong></li>
+                <li><span>Código postal</span><strong>1754</strong></li>
+                <li><span>Referencias</span><strong>Cerca de UNLAM</strong></li>
+              </ul>
+            </div>
+
+            <div class="map-card">
+              <iframe
+                src="https://www.google.com/maps?q=Villa+Luzuriaga,+Buenos+Aires&output=embed"
+                loading="lazy"
+                referrerpolicy="no-referrer-when-downgrade"
+                title="Mapa de ubicación"
+              ></iframe>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section id="contacto" class="section">
+        <div class="container">
+          <div class="section-header left">
+            <p class="eyebrow">Contacto</p>
+            <h2>Estamos para ayudarte</h2>
+          </div>
+
+          <div class="contact-grid">
+            <a class="contact-card" href="https://wa.me/5491159884082?text=Hola%2C%20quisiera%20consultar%20sobre%20sus%20productos." target="_blank" rel="noreferrer">
+              <span class="contact-icon">💬</span>
+              <strong>WhatsApp</strong>
+              <small>+54 9 11 5988-4082</small>
+            </a>
+
+            <a class="contact-card" href="tel:+5491159884082">
+              <span class="contact-icon">📞</span>
+              <strong>Teléfono</strong>
+              <small>+54 9 11 5988-4082</small>
+            </a>
+
+            <a class="contact-card" href="mailto:ventas@camebeuty.com.ar">
+              <span class="contact-icon">✉️</span>
+              <strong>Correo</strong>
+              <small>papelera@camebeuty.com.ar</small>
+            </a>
+
+            <div class="contact-card">
+              <span class="contact-icon">🕒</span>
+              <strong>Horarios</strong>
+              <small>Lun a Vie: 9:00 a 19:00</small>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section id="alcance" class="section section-alt">
+        <div class="container">
+          <div class="section-header">
+            <p class="eyebrow">Alcance</p>
+            <h2>Atención comercial en todo el país</h2>
+          </div>
+
+          <div class="scope-grid">
+            <div class="scope-card">
+              <h3>Localidades</h3>
+              <p>La Matanza, Moron, Ramos Mejia, San Justo</p>
+            </div>
+            <div class="scope-card">
+              <h3>Provincias</h3>
+              <p>Provincia de Buenos Aires</p>
+            </div>
+            <div class="scope-card">
+              <h3>Modalidades</h3>
+              <p>Atención mayorista, minorista y para eventos especiales.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <a
+      href="https://wa.me/5491159884082?text=Hola%2C%20quisiera%20realizar%20una%20consulta%20sobre%20sus%20productos."
+      class="whatsapp-float"
+      target="_blank"
+      rel="noreferrer"
+      aria-label="Consultar por WhatsApp"
+    >
+      <span><img src="/catalogo/img/categorias/whatsapp.png"></span>
+    </a>
+
+    <script src="js/catalogo.js"></script>
+    <script src="js/categorias.js"></script>
+    <script src="js/whatsapp.js"></script>
+    <script src="js/navegacion.js"></script>
+    <script src="js/app.js"></script>
+  </body>
+</html>

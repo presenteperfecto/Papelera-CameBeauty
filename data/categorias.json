@@ -1,0 +1,614 @@
+[
+  {
+    "id": "arranque",
+    "nombre": "Arranque",
+    "descripcion": "Materiales para uso comercial en distintos tamaños y colores, ideales para embalaje y control de temperatura en cocina y servicio.",
+    "imagen": ""
+  },
+  {
+    "id": "bandas-elasticas",
+    "nombre": "Bandas elásticas",
+    "descripcion": "Bandas elásticas en presentaciones prácticas para uso doméstico, gastronómico y comercial con alta resistencia.",
+    "imagen": ""
+  },
+  {
+    "id": "bandeja",
+    "nombre": "Bandeja",
+    "descripcion": "Bandejas plásticas, bisagras y modelos de presentación para organización, servicio y logística de productos.",
+    "imagen": ""
+  },
+  {
+    "id": "batidor",
+    "nombre": "Batidor",
+    "descripcion": "Accesorios y elementos para cocina, elaboración y preparación con soluciones funcionales para uso cotidiano.",
+    "imagen": ""
+  },
+  {
+    "id": "bobina",
+    "nombre": "Bobina",
+    "descripcion": "Bobinas y rollos de higiene y papel industrial para usos de limpieza, servicio y distribución.",
+    "imagen": ""
+  },
+  {
+    "id": "bolsa-camiseta",
+    "nombre": "Bolsa camiseta",
+    "descripcion": "Bolsas con diseño tipo camiseta en varios tamaños y colores, pensadas para compras, regalos y uso comercial.",
+    "imagen": ""
+  },
+  {
+    "id": "bolsa-consorcio",
+    "nombre": "Bolsa consorcio",
+    "descripcion": "Bolsas de servicio y uso general para supermercados, comercios y distribución de productos de consumo.",
+    "imagen": ""
+  },
+  {
+    "id": "bolsa-horno",
+    "nombre": "Bolsa de horno",
+    "descripcion": "Bolsas resistentes para cocción, horneado y almacenamiento con excelente rendimiento en servicio gastronómico.",
+    "imagen": ""
+  },
+  {
+    "id": "bolsa-tela",
+    "nombre": "Bolsa de tela",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "bolsa-delivery",
+    "nombre": "Bolsa de delivery",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "bolsa-ecommerce",
+    "nombre": "Bolsa de e-commerce",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "bolsa-factura",
+    "nombre": "Bolsa de factura",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "bolsa-manija",
+    "nombre": "Bolsa de manija",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "bolsa-residuo",
+    "nombre": "Bolsa de residuo",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "bolsa-riñon",
+    "nombre": "Bolsa de riñon",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "bolsas-alvacio",
+    "nombre": "Bolsas al vacio",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "bolsas-burbjas",
+    "nombre": "Bolsas Burbujas",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "bolsas-ppp",
+    "nombre": "Bolsas P.P.P.",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "bombonera",
+    "nombre": "Bombonera",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "box-kraft",
+    "nombre": "Box Kraft",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "budinera",
+    "nombre": "Budinera",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "caja",
+    "nombre": "Caja",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "cinta",
+    "nombre": "Cinta",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "collarin",
+    "nombre": "Collarin",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "cono",
+    "nombre": "Cono",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "cookies",
+    "nombre": "Cokies",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "copa",
+    "nombre": "Copa",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "corrugado",
+    "nombre": "Corrugado",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "cuchara",
+    "nombre": "Cuchara",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "cuchillo",
+    "nombre": "Cuchillo",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "cuchillito",
+    "nombre": "Cuchillito",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "cucurucho",
+    "nombre": "Cucurucho",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "cupcake",
+    "nombre": "Cupcake",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "discos-de-carton",
+    "nombre": "Discos de Carton",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "ensaladera",
+    "nombre": "Ensaladera",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "escarbadiente",
+    "nombre": "Escarbadiente",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "espaditas",
+    "nombre": "Espaditas",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "estallido",
+    "nombre": "Estallido",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "estuche",
+    "nombre": "Estuche",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "etiqueta",
+    "nombre": "Etiqueta",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "faja",
+    "nombre": "Faja",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "film",
+    "nombre": "Film",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "goma",
+    "nombre": "Goma",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "guantes",
+    "nombre": "Guantes",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "higienico",
+    "nombre": "Higienico",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "hilo",
+    "nombre": "Hilo",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "lamina-folex",
+    "nombre": "Lamina Folex",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "lapiz",
+    "nombre": "Lapiz",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "macarons",
+    "nombre": "Macarons",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "mantel",
+    "nombre": "Mantel",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "marcador",
+    "nombre": "Marcador",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "marmita",
+    "nombre": "Marmita",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "molde-budin",
+    "nombre": "Molde Budin",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "molde-rosca",
+    "nombre": "Molde Rosca",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "moños",
+    "nombre": "Moños",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "motex",
+    "nombre": "Motex",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "numero",
+    "nombre": "Numero",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "oblea",
+    "nombre": "Oblea",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "palito",
+    "nombre": "Palito",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "panchos",
+    "nombre": "Panchos",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "papel",
+    "nombre": "Papel",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "pinchos",
+    "nombre": "Pinchos",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "plato-aluminio",
+    "nombre": "Plato Aluminio",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "plato-descartable",
+    "nombre": "Plato Descartable",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "plato-diploamtico",
+    "nombre": "Plato Diplomatico",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "plato-plastico",
+    "nombre": "Plato Plastico",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "pluribol",
+    "nombre": "Pluribol",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "porcion-torta",
+    "nombre": "Porcion Torta",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "porta-bobina",
+    "nombre": "Porta Bobina",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "porta-papas",
+    "nombre": "Porta Papas",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "porta-vaso",
+    "nombre": "Porta Vaso",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "pote",
+    "nombre": "Pote",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "potes-de-carton",
+    "nombre": "Potes de Carton",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "precinto",
+    "nombre": "Precinto",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "racionador",
+    "nombre": "Racionador",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "raviol",
+    "nombre": "Raviol",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "recipiente",
+    "nombre": "Guantes",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "rejilla",
+    "nombre": "Rejilla",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "repusto",
+    "nombre": "Repuesto",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "resaltador",
+    "nombre": "Resaltador",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "resma",
+    "nombre": "Resma",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "rollo-aluminio",
+    "nombre": "Rollo Aluminio",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "rollo-caracol",
+    "nombre": "Rollo Caracol",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "rollo-cocina",
+    "nombre": "Rollo Cocina",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "rollo-obra",
+    "nombre": "Rollo Obra",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "rollo-termico",
+    "nombre": "Rollo Termico",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "rollo-vacio",
+    "nombre": "Rollo Vacio",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "satinada",
+    "nombre": "Satinada",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "servilleta",
+    "nombre": "Servilleta",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "silicona",
+    "nombre": "Silicona",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "sorbete",
+    "nombre": "Sorbete",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "tacos",
+    "nombre": "Tacos",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "tag",
+    "nombre": "Tag",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "talonario",
+    "nombre": "Talonario",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "tapa",
+    "nombre": "Tapa",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "tenedor",
+    "nombre": "Tenedor",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "terminco-helado",
+    "nombre": "Termico Helado",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "toalla",
+    "nombre": "Toalla",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "torta",
+    "nombre": "Torta",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "tortera",
+    "nombre": "Tortera",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "tripode",
+    "nombre": "Tripode",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  },
+  {
+    "id": "vaso",
+    "nombre": "Vaso",
+    "descripcion": "Soluciones reutilizables y decorativas para presentación, compra y distribución comercial con estilo práctico.",
+    "imagen": ""
+  }
+]
