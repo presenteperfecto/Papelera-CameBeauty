@@ -65,12 +65,54 @@
     });
 
     contenedor.innerHTML = botones.join('');
-    contenedor.querySelectorAll('[data-category]').forEach((boton) => {
-      boton.addEventListener('click', () => {
+    
+
+contenedor.querySelectorAll('[data-category]').forEach((boton) => {
+
+    boton.addEventListener('click', () => {
+
         const categoria = boton.getAttribute('data-category');
+
+        // Cambiar la categoría activa
         setCategoriaActiva(categoria);
-      });
+
+        // Esperar a que se actualice la grilla
+        setTimeout(() => {
+
+            const productsGrid = document.querySelector('.products-grid');
+
+            if (!productsGrid) return;
+
+            // Altura del Nav
+            const headerHeight =
+                document.querySelector('.nav-container')?.offsetHeight || 0;
+
+            // Altura del Catalog Toolbar
+            const toolbarHeight =
+                document.querySelector('.catalog-toolbar')?.offsetHeight || 0;
+
+            // Espacio ocupado por los elementos sticky
+            const offset = headerHeight + toolbarHeight + 10;
+
+            // Obtener la posición actual de products-grid
+            const posicion =
+                productsGrid.getBoundingClientRect().top +
+                window.scrollY -
+                offset;
+
+            // Scroll automático y suave
+            window.scrollTo({
+                top: posicion,
+                behavior: 'smooth'
+            });
+
+        }, 100);
+
     });
+
+});
+
+
   }
 
   window.categoriasModule = {
