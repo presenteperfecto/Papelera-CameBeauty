@@ -63,7 +63,7 @@ img {
   justify-content: space-between;
   align-items: center;
   gap: 1rem;
-  min-height: 42px;
+  min-height: 5px;
   font-size: 0.8rem;
   color: var(--muted);
 }
@@ -74,16 +74,15 @@ img {
 }
 
 :root {
-    --header-height: 100px;
+    --header-height: 2%;
 }
 
 .site-header {
     position: sticky;
     top: 0;
     z-index: 40;
-
     min-height: var(--header-height);
-
+    max-height: 5%;
     backdrop-filter: blur(14px);
     background: rgba(255, 250, 247, 0.88);
     border-bottom: 1px solid rgba(129, 105, 125, 0.08);
@@ -93,10 +92,10 @@ img {
     position: sticky;
     top: var(--header-height);
     z-index: 30;
-
     backdrop-filter: blur(14px);
     background: rgba(255, 250, 247, 0.88);
-    border-bottom: 1px solid rgba(129, 105, 125, 0.08);
+    border-bottom: 5px solid rgba(65, 57, 63, 0.08);
+    border-radius:1%;
 }
 
 .nav {
